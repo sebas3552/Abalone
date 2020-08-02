@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes.qrc</file>
+        <file>tablero.png</file>
+        <file>hexagono2.png</file>
+        <file>Hexagono4.svg</file>
+        <file>abalone.jpg</file>
+        <file>images.jpg</file>
+    </qresource>
+</RCC>
